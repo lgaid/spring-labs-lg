@@ -1,4 +1,9 @@
 package com.cydeo.enums;
 
-public class RecipeType {
+public enum RecipeType {
+
+
+    BREAKFAST,LUNCH, DESERT, APPETIZER, BAKED, SOUP, VEGETARIAN
+
+
 }

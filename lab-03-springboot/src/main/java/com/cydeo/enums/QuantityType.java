@@ -1,6 +1,7 @@
 package com.cydeo.enums;
 
-public class QuantityType {
+public enum QuantityType {
 
+    OUNCE, LB, TBSP
 
 }
