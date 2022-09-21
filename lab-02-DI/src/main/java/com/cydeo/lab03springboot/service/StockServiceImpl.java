@@ -1,6 +1,6 @@
-package com.cydeo.service;
+package com.cydeo.lab03springboot.service;
 
-import com.cydeo.model.Product;
+import com.cydeo.lab03springboot.model.Product;
 
 public class StockServiceImpl implements StockService {
 

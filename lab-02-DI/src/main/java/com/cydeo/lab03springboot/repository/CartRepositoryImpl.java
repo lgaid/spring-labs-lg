@@ -1,6 +1,6 @@
-package com.cydeo.repository;
+package com.cydeo.lab03springboot.repository;
 
-import com.cydeo.model.Product;
+import com.cydeo.lab03springboot.model.Product;
 
 public class CartRepositoryImpl implements CartRepository{
 
