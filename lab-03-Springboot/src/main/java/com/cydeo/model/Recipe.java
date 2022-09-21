@@ -18,7 +18,7 @@ public class Recipe {
     private String name;
     private Integer duration;
     private String preparation;
-    private List<Ingredient> ingredients;
+    private List<Ingredients> ingredients;
     private RecipeType recipeType;
 
 

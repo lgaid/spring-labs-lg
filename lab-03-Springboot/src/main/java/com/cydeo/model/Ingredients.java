@@ -7,7 +7,7 @@ import lombok.Setter;
 
 @Getter
 @Setter
-public class Ingredient {
+public class Ingredients {
 
     private String name;
     private Integer quantity;
