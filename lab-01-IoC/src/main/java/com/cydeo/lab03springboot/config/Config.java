@@ -1,4 +1,4 @@
-package com.cydeo.config;
+package com.cydeo.lab03springboot.config;
 
 
 import com.cydeo.Currency;
