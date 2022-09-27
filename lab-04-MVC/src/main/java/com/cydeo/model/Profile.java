@@ -1,4 +1,4 @@
-package com.cydeo.lab04mvc.model;
+package com.cydeo.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
@@ -8,7 +8,7 @@ import java.time.LocalDateTime;
 
 @Getter
 @Setter
-@AllArgsConstructor
+
 public class Profile {
     private String email;
     private String phoneNumber;

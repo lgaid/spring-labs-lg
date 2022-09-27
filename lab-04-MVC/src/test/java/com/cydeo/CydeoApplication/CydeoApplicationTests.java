@@ -1,4 +1,4 @@
-package com.cydeo.lab04mvc;
+package com.cydeo.CydeoApplication;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

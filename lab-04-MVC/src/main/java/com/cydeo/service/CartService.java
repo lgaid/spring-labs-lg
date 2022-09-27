@@ -1,8 +1,8 @@
 
-package com.cydeo.lab04mvc.service;
+package com.cydeo.service;
 
-import com.cydeo.lab04mvc.model.Cart;
-import com.cydeo.lab04mvc.model.CartItem;
+import com.cydeo.model.Cart;
+import com.cydeo.model.CartItem;
 
 import java.util.List;
 import java.util.UUID;
