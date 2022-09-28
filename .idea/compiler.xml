@@ -7,6 +7,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="spring-05-thymeleaf" />
         <module name="lab-02-DI" />
         <module name="lab-04-MVC" />
         <module name="lab-00-Coupling" />
@@ -19,6 +20,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="lab-03-Springboot" options="-parameters" />
       <module name="lab-04-MVC" options="-parameters" />
+      <module name="spring-05-thymeleaf" options="-parameters" />
     </option>
   </component>
 </project>
