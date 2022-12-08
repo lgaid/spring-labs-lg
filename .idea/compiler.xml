@@ -7,26 +7,32 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="spring-05-thymeleaf" />
-        <module name="lab-04-MVC" />
+        <module name="lab-04-mvc" />
         <module name="lab-07-orm-queries" />
+        <module name="lab-03-springmvc" />
+        <module name="lab-01-ioc" />
         <module name="spring-labs-lg" />
         <module name="lab-08-rest" />
-        <module name="lab-03-Springboot" />
+        <module name="lab-02-di" />
+        <module name="lab-00-coupling" />
         <module name="lab-06-orm" />
+        <module name="lab-05-thymeleaf" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="lab-00-Coupling" target="18" />
       <module name="lab-01-IoC" target="18" />
       <module name="lab-02-DI" target="18" />
-      <module name="lab-05-thymeleaf" target="11" />
+      <module name="spring-05-thymeleaf" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="lab-03-Springboot" options="-parameters" />
-      <module name="lab-04-MVC" options="-parameters" />
+      <module name="lab-00-coupling" options="-parameters" />
+      <module name="lab-01-ioc" options="-parameters" />
+      <module name="lab-02-di" options="-parameters" />
+      <module name="lab-03-springmvc" options="-parameters" />
+      <module name="lab-04-mvc" options="-parameters" />
       <module name="lab-05-thymeleaf" options="-parameters" />
       <module name="lab-06-orm" options="-parameters" />
       <module name="lab-07-orm-queries" options="-parameters" />
