@@ -8,10 +8,17 @@
         <option value="$PROJECT_DIR$/lab-03-Springboot/pom.xml" />
         <option value="$PROJECT_DIR$/lab-04-MVC/pom.xml" />
         <option value="$PROJECT_DIR$/spring-05-thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/lab-06-orm/pom.xml" />
+        <option value="$PROJECT_DIR$/lab-05-thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/lab-07-orm-queries/pom.xml" />
+        <option value="$PROJECT_DIR$/lab-08-rest/pom.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="openjdk-18" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
   </component>
 </project>
