@@ -1,4 +1,5 @@
 package com.cydeo.lab08rest.entity;
+
 import lombok.Getter;
 import lombok.Setter;
 
